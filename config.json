@@ -1,0 +1,6 @@
+{
+  "active": true,
+  "version": "1.0",
+  "author": "rizzDeveloperz",
+  "notes": "Security configuration file. Set 'active' to false to disable the application."
+}
